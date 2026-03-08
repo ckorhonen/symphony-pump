@@ -1,0 +1,36 @@
+Minimalist cryptocurrency token logo for "SYMPHONY"
+
+Concept: Conductor's baton dissolving into swirling AI particles
+
+Style Details:
+- Geometric abstract with clean, precise lines
+- Professional and modern aesthetic
+- Simple icon that works at any size
+- No text, just the visual symbol
+
+Color Palette:
+- Primary: Electric purple (#8B5CF6)
+- Accent: Cyan (#06B6D4)
+- Background: Pure black (#000000)
+- High contrast for visibility
+
+Technical Specs:
+- 512x512 pixels
+- PNG format with transparency
+- Centered composition
+- Bold enough to read at 32x32
+- Sophisticated enough for 1024x1024
+
+Reference Style:
+- Similar sophistication to UNI, AAVE, COMP logos
+- Clean like modern fintech apps
+- Futuristic but not over-designed
+
+Mood:
+- Technical precision
+- Organized chaos
+- Autonomous intelligence
+- Coordination and harmony
+
+Visual Metaphor:
+The baton (symbol of coordination/conducting) transforms into particle swirls (symbol of AI/computation), representing the bridge between human orchestration and autonomous intelligence.
