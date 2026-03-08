@@ -1,0 +1,59 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="512" height="512" fill="#0F172A"/>
+  
+  <!-- Conductor's baton (main element) -->
+  <g id="baton">
+    <!-- Baton handle (purple gradient) -->
+    <defs>
+      <linearGradient id="batonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#06B6D4;stop-opacity:0.6" />
+      </linearGradient>
+    </defs>
+    
+    <!-- Main baton line -->
+    <line x1="180" y1="380" x2="310" y2="200" 
+          stroke="url(#batonGradient)" stroke-width="12" 
+          stroke-linecap="round"/>
+    
+    <!-- Baton tip (bright purple) -->
+    <circle cx="310" cy="200" r="8" fill="#8B5CF6"/>
+  </g>
+  
+  <!-- Particle swirl (AI dissolution effect) -->
+  <g id="particles">
+    <!-- Larger particles (purple) -->
+    <circle cx="340" cy="180" r="10" fill="#8B5CF6" opacity="0.9"/>
+    <circle cx="355" cy="210" r="8" fill="#8B5CF6" opacity="0.85"/>
+    <circle cx="320" cy="160" r="7" fill="#8B5CF6" opacity="0.8"/>
+    <circle cx="365" cy="240" r="9" fill="#8B5CF6" opacity="0.75"/>
+    
+    <!-- Medium particles (cyan) -->
+    <circle cx="330" cy="145" r="6" fill="#06B6D4" opacity="0.9"/>
+    <circle cx="375" cy="195" r="7" fill="#06B6D4" opacity="0.85"/>
+    <circle cx="350" cy="170" r="5" fill="#06B6D4" opacity="0.8"/>
+    <circle cx="385" cy="225" r="6" fill="#06B6D4" opacity="0.75"/>
+    <circle cx="340" cy="260" r="5" fill="#06B6D4" opacity="0.7"/>
+    
+    <!-- Small particles (mixed, more scattered) -->
+    <circle cx="310" cy="130" r="4" fill="#8B5CF6" opacity="0.7"/>
+    <circle cx="395" cy="210" r="4" fill="#06B6D4" opacity="0.65"/>
+    <circle cx="360" cy="150" r="3" fill="#8B5CF6" opacity="0.6"/>
+    <circle cx="325" cy="120" r="3" fill="#06B6D4" opacity="0.55"/>
+    <circle cx="405" cy="235" r="3" fill="#8B5CF6" opacity="0.5"/>
+    <circle cx="370" cy="280" r="4" fill="#06B6D4" opacity="0.6"/>
+    
+    <!-- Tiny particles (dissolution effect) -->
+    <circle cx="300" cy="115" r="2" fill="#8B5CF6" opacity="0.4"/>
+    <circle cx="415" cy="250" r="2" fill="#06B6D4" opacity="0.4"/>
+    <circle cx="340" cy="100" r="2" fill="#8B5CF6" opacity="0.35"/>
+    <circle cx="425" cy="270" r="2" fill="#06B6D4" opacity="0.35"/>
+    <circle cx="315" cy="95" r="2" fill="#8B5CF6" opacity="0.3"/>
+    <circle cx="390" cy="300" r="2" fill="#06B6D4" opacity="0.3"/>
+  </g>
+  
+  <!-- Optional: subtle glow effect around baton tip -->
+  <circle cx="310" cy="200" r="20" fill="#8B5CF6" opacity="0.15"/>
+  <circle cx="310" cy="200" r="30" fill="#06B6D4" opacity="0.08"/>
+</svg>
