@@ -1,0 +1,25 @@
+{
+  "name": "symphony-pump",
+  "version": "1.0.0",
+  "description": "Autonomous AI agent token launch system",
+  "type": "module",
+  "scripts": {
+    "generate-logo": "./scripts/generate-logo.sh",
+    "deploy-token": "node scripts/deploy-token.js",
+    "post-tweets": "node scripts/post-tweets.js",
+    "deploy-page": "./scripts/deploy-page.sh",
+    "monitor": "node scripts/monitor.js",
+    "autonomous-launch": "./scripts/autonomous-launch.sh"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "@solana/web3.js": "^1.87.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

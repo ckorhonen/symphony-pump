@@ -1,0 +1,25 @@
+# Environment & Secrets
+.env
+.env.local
+.token-address
+
+# Dependencies
+node_modules/
+bun.lockb
+package-lock.json
+
+# Generated Assets
+assets/logos/*.png
+twitter-thread-formatted.txt
+
+# Build Artifacts
+error-screenshot.png
+
+# OS Files
+.DS_Store
+*.swp
+*.swo
+
+# Editor
+.vscode/
+.idea/
