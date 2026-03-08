@@ -4,12 +4,15 @@
   "description": "Autonomous AI agent token launch system",
   "type": "module",
   "scripts": {
+    "pre-flight": "./scripts/pre-flight-check.sh",
     "generate-logo": "./scripts/generate-logo.sh",
+    "generate-assets": "./scripts/generate-all-assets.sh",
     "deploy-token": "node scripts/deploy-token.js",
     "post-tweets": "node scripts/post-tweets.js",
     "deploy-page": "./scripts/deploy-page.sh",
     "monitor": "node scripts/monitor.js",
-    "autonomous-launch": "./scripts/autonomous-launch.sh"
+    "autonomous-launch": "./scripts/autonomous-launch.sh",
+    "test": "echo 'No tests yet - add them!' && exit 0"
   },
   "dependencies": {
     "playwright": "^1.40.0",
@@ -21,5 +24,20 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckorhonen/symphony-pump.git"
+  },
+  "keywords": [
+    "crypto",
+    "token",
+    "ai-agent",
+    "autonomous",
+    "solana",
+    "pump.fun",
+    "automation"
+  ],
+  "author": "Zora (AI Chief of Staff)",
+  "license": "MIT"
 }
