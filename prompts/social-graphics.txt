@@ -1,0 +1,248 @@
+# Social Media Graphics Prompts
+
+Generate these using Gemini, DALL-E, Midjourney, or Canva.
+
+---
+
+## Twitter Header (1500x500)
+
+**Prompt:**
+```
+Twitter header banner for Symphony crypto token, 1500x500 pixels
+
+Left side: Symphony logo (conductor's baton dissolving into AI particles)
+Center text: "SYMPHONY" in bold futuristic font
+Right side: "AI Agent Orchestration" tagline
+Bottom right: "12+ Autonomous Agents • 24/7 Execution"
+
+Style: Cyberpunk aesthetic, electric purple (#8B5CF6) and cyan (#06B6D4) gradient
+Background: Deep space black with subtle particle effects
+Typography: Clean, modern, sans-serif
+Mood: Professional, futuristic, technical
+
+Leave safe zones on edges (avoid text in outer 10% margins)
+Horizontal composition, widescreen ratio
+High contrast for visibility on both light/dark Twitter themes
+```
+
+---
+
+## Open Graph Image (1200x630)
+
+**Prompt:**
+```
+Social media preview card for Symphony token, 1200x630 pixels
+
+Center: Large Symphony logo (40% of image)
+Top: "SYMPHONY" text, bold purple (#8B5CF6)
+Middle tagline: "AI Agents Launch Their Own Token"
+Bottom: "No Roadmap • No Promises • Just Vibes"
+
+Background: Dark gradient from black to deep purple
+Floating elements: Subtle particle swirls, circuit patterns
+Typography: Bold, modern, highly legible
+Visual hierarchy: Logo dominant, text secondary
+
+Add subtle glow effects around logo
+Keep composition centered for all platforms (Twitter, Discord, Telegram)
+Ensure text is readable at thumbnail sizes
+Professional crypto/tech aesthetic
+```
+
+---
+
+## Discord Server Banner (960x540)
+
+**Prompt:**
+```
+Discord server banner for Symphony token community, 960x540 pixels
+
+Left third: Symphony logo with glow effect
+Center: "Welcome to the Swarm" text
+Right section: Icons representing 12 different AI agents
+
+Style: Dark theme, purple/cyan accents
+Background: Animated particle field (if supported) or static starfield
+Typography: Discord-friendly fonts (readable at all sizes)
+
+Visual elements:
+- Conductor's baton motif
+- AI/circuit patterns
+- Swirling particles
+- Electric glow effects
+
+Keep upper corners clear (Discord UI overlays there)
+Maintain readability on both desktop and mobile
+```
+
+---
+
+## Twitter Post Template (1200x675)
+
+**Prompt:**
+```
+Tweet image template for Symphony token updates, 1200x675 pixels
+
+Header area: Symphony logo + "SYMPHONY" wordmark
+Main content area: Large text space (will be customized per post)
+Footer: "symphony.token" + pump.fun icon
+
+Background: Subtle gradient, dark with purple/cyan accents
+Border: Thin cyan outline (optional)
+Layout: Modular design allowing text replacement
+
+Template variations needed:
+1. Agent activity update
+2. Milestone celebration (100 holders, etc.)
+3. Governance vote announcement
+
+Leave 60% of space for customizable text
+Use consistent Symphony brand colors
+Professional but not corporate
+```
+
+---
+
+## Infographic: Agent Swarm (1080x1080)
+
+**Prompt:**
+```
+Infographic showing Symphony's 12+ autonomous agents, 1080x1080 pixels
+
+Layout: Central "SYMPHONY" hub with 12 nodes radiating outward
+Each node: Icon + agent name + role
+
+Agents to show:
+• 🌀 Zora - Chief of Staff
+• 🏭 OpenFactory - Auto-fixes
+• 🔬 Research - Market analysis
+• 🛡️ Security - Audits
+• 🤝 Social - Coordination
+• 💰 Financial - Opportunities
+• (+ 6 more generic nodes)
+
+Visual style:
+- Network/constellation diagram
+- Connecting lines with data flow animation aesthetic
+- Purple/cyan gradient lines
+- Each node has unique icon
+- Clean, technical, professional
+
+Add subtle particle effects between connections
+Include caption: "12+ Autonomous Agents • Coordinated via Token Governance"
+Dark background, high contrast
+Instagram/Twitter square format
+```
+
+---
+
+## Meme Template 1: "The Launch"
+
+**Prompt:**
+```
+Meme image for crypto Twitter, 1200x675 pixels
+
+Top text: "HUMAN: We should probably plan this carefully"
+Bottom text: "ZORA: *already deployed the token*"
+
+Center image: Stylized AI agent (Zora) at a computer, digital particles swirling
+Style: Dramatic, slightly humorous
+Colors: Purple/cyan Symphony brand colors
+Typography: Impact font (meme standard) but high quality
+
+Background: Split screen showing "planning meeting" vs "token already live"
+Mood: Confident chaos, autonomous action
+Professional meme quality (suitable for launch thread)
+```
+
+---
+
+## Meme Template 2: "The Swarm"
+
+**Prompt:**
+```
+Meme image concept, 1200x675 pixels
+
+Top panel: "Other tokens: We have a team"
+Bottom panel: "Symphony: We have a swarm" (showing 12 AI agents working)
+
+Visual:
+- Top: Generic corporate team photo (boring)
+- Bottom: Network of glowing AI agents, all interconnected, actively building
+
+Style: Comparison meme format
+Colors: Purple/cyan brand
+Text: Bold, readable
+Humor: Tech-savvy crypto audience
+
+Include Symphony logo in bottom corner
+Professional but memeable
+```
+
+---
+
+## Design Guidelines (All Graphics)
+
+**Colors:**
+- Primary: #8B5CF6 (Electric Purple)
+- Accent: #06B6D4 (Cyan)
+- Background: #0F172A (Deep Black)
+- Text: #F1F5F9 (Off White)
+
+**Typography:**
+- Headers: Bold, geometric, sans-serif
+- Body: Clean, modern (Inter/Helvetica/Arial)
+- Avoid script fonts
+- High contrast for readability
+
+**Logo Usage:**
+- Always on dark backgrounds
+- Minimum 10% padding around logo
+- Don't distort or stretch
+- Use PNG with transparency
+
+**General Style:**
+- Professional tech/crypto aesthetic
+- Not too corporate, not too casual
+- Futuristic but accessible
+- High contrast, bold colors
+- Minimal but impactful
+
+---
+
+## File Naming Convention
+
+```
+twitter-header-1500x500.png
+og-image-1200x630.png
+discord-banner-960x540.png
+tweet-template-1200x675.png
+infographic-agent-swarm-1080x1080.png
+meme-launch-1200x675.png
+meme-swarm-1200x675.png
+```
+
+---
+
+## Quick Generation Tools
+
+**AI Image Generation:**
+- Google AI Studio: https://aistudio.google.com (Free, Gemini)
+- DALL-E: https://openai.com/dall-e (Paid)
+- Midjourney: https://midjourney.com (Subscription)
+
+**Design Tools:**
+- Canva: https://canva.com (Easiest, templates available)
+- Figma: https://figma.com (Professional, collaborative)
+- GIMP: Free alternative to Photoshop
+
+**Tips:**
+- Use prompts above as starting points
+- Iterate until satisfied
+- Export at exact dimensions
+- Check readability at thumbnail sizes
+- Test on both light/dark backgrounds
+
+---
+
+**Last updated:** 2026-03-08 19:10 EST
