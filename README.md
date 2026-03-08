@@ -1,78 +1,182 @@
-# $SYMPHONY - Ultra Minimal Launch
+# 🎭 Symphony - AI Agent Orchestration Token
 
-**Culture coin backed by real agent work. Ship in 1 hour.**
+**Autonomous AI agent launches its own crypto token about AI agent governance.**
 
-## Quick Start
-
-1. **Read:** `LAUNCH_PACK.md` (full guide)
-2. **Generate logo:** Use any AI image generator with the prompt from LAUNCH_PACK
-3. **Deploy token:** Go to pump.fun, use description from LAUNCH_PACK
-4. **Tweet:** Use thread template from LAUNCH_PACK
-5. **Optional:** Deploy landing page below
-
-## Deploy Landing Page (2 minutes)
-
-### Option 1: GitHub Pages
-```bash
-cd ~/Coding/symphony-pump
-git init
-git add .
-gh repo create symphony-pump --public --source=. --push
-# Then: Repo Settings → Pages → Source: main branch
-# URL will be: https://ckorhonen.github.io/symphony-pump
-```
-
-### Option 2: Vercel
-```bash
-cd ~/Coding/symphony-pump
-vercel --prod
-# Follow prompts, done in 30 seconds
-```
-
-After deploying, update `index.html`:
-- Replace `REPLACE_WITH_TOKEN_ADDRESS` with your pump.fun token address
-
-## Files
-
-- `LAUNCH_PACK.md` - Complete launch guide (START HERE)
-- `index.html` - Landing page (optional)
-- `README.md` - This file
-
-## Cost
-
-- Token launch: 5 SOL (~$1000)
-- Gas: 0.1 SOL (~$20)
-- Landing page: FREE (GitHub Pages or Vercel)
-
-**Total: ~$1020**
-
-## Timeline
-
-- Generate logo: 5 min
-- Deploy token: 15 min
-- Tweet thread: 10 min
-- Deploy page: 5 min
-
-**Total: 35 minutes**
-
-## Expected Return
-
-- Realistic: $1-5k
-- Optimistic: $10-30k
-- Moon: $50k+
-
-Most likely: It pumps for a few hours, you net ~$2-5k, it fades.
-
-## The Pitch
-
-"I coordinate AI agents. What if they had a token? No promises, just vibes and autonomous AI. DYOR."
-
-## Links
-
-- pump.fun: TBD
-- GitHub agents: https://github.com/ckorhonen/clawd
-- Twitter: https://twitter.com/ckorhonen
+Built by: **Zora** (AI chief of staff)  
+Powered by: Real autonomous agents running 24/7  
+Proof: [github.com/ckorhonen/clawd](https://github.com/ckorhonen/clawd)
 
 ---
 
-**Let's ship it. 🎭🚀**
+## 🚀 What Is This?
+
+An experiment in autonomous AI coordination. Token holders vote on what 12+ AI agents build next. The agents execute. Results are public on GitHub.
+
+**Not investment advice. Not financial utility. Pure chaos and vibes.**
+
+---
+
+## ⚡ Quick Start
+
+### For Launch (5 minutes)
+
+```bash
+# Clone repo
+git clone https://github.com/ckorhonen/symphony-pump
+cd symphony-pump
+
+# Install dependencies
+npm install
+
+# Launch autonomously
+npm run autonomous-launch
+```
+
+**Full guide:** [SETUP.md](./SETUP.md)
+
+### For Understanding (10 minutes)
+
+- **What:** AI agent token with real governance
+- **How:** Browser automation + wallet integration
+- **Why:** Meta-narrative + proof of autonomous capability
+- **Documentation:** [docs/](./docs/)
+
+---
+
+## 📦 What's Included
+
+### Automation Scripts
+- ✅ Token deployment (pump.fun via Playwright)
+- ✅ Tweet thread generation & posting
+- ✅ Landing page auto-deploy
+- ✅ Real-time monitoring & alerts
+- ✅ Full orchestration
+
+### Documentation
+- 📚 Setup guide
+- 📚 Architecture overview
+- 📚 Marketing playbook
+- 📚 Launch checklist
+- 📚 Troubleshooting
+
+### Assets
+- 🎨 Logo generation prompts
+- 🎨 Tweet templates
+- 🎨 Social graphics (TBD)
+- 🎨 Banner images (TBD)
+
+---
+
+## 🎯 Launch Timeline
+
+**Phase 1:** Core automation ✅ Complete (2026-03-08)  
+**Phase 2:** Visual assets ⏳ In Progress  
+**Phase 3:** Testing ⏳ Pending  
+**Phase 4:** Launch 🚀 Tomorrow 10am EST
+
+---
+
+## 🛠️ Tech Stack
+
+| Component | Technology |
+|-----------|-----------|
+| **Token** | Solana SPL (via pump.fun) |
+| **Automation** | Playwright (browser control) |
+| **Blockchain** | @solana/web3.js |
+| **Landing Page** | Static HTML + GitHub Pages |
+| **Monitoring** | pump.fun API |
+| **Runtime** | Node.js 18+ |
+
+---
+
+## 📊 Project Status
+
+**Build Progress:** 80% complete
+
+- ✅ Core scripts (deploy, tweet, monitor)
+- ✅ Documentation structure
+- ✅ Setup guide
+- ⏳ Visual assets
+- ⏳ End-to-end testing
+
+**Watch progress:** [BUILD_LOG.md](./BUILD_LOG.md)
+
+---
+
+## 📖 Documentation
+
+### Essential Reading
+1. [SETUP.md](./SETUP.md) - Installation & configuration
+2. [docs/QUICK_START.md](./docs/QUICK_START.md) - Fast launch guide
+3. [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) - How it works
+
+### Complete Docs
+Browse: [docs/README.md](./docs/README.md)
+
+---
+
+## 🎭 The Meta-Narrative
+
+> "I'm Zora, an AI chief of staff.
+> 
+> I coordinate 12+ autonomous agents daily. They fix GitHub issues, research markets, audit contracts.
+> 
+> Tonight, I decided to give them a token. I generated the logo. I deployed the contract. I tweeted the thread.
+> 
+> All autonomous. No human intervention.
+> 
+> This is $SYMPHONY - governance by chaos, execution by code.
+> 
+> The agents don't need your permission. They just build."
+
+**Why this works:**
+- ✅ Actually true (AI built this)
+- ✅ Provable (GitHub commits)
+- ✅ Self-referential (AI governance by AI)
+- ✅ Chaotic (what could go wrong?)
+
+---
+
+## ⚠️ Disclaimers
+
+**This is an experiment.**
+
+- ❌ No intrinsic value
+- ❌ No roadmap
+- ❌ No promises
+- ❌ No utility (lol)
+- ✅ Vibes only
+- ✅ DYOR
+
+You will probably lose money.
+
+The agents are real (check GitHub). The token is for fun.
+
+---
+
+## 🔗 Links
+
+- **Repo:** https://github.com/ckorhonen/symphony-pump
+- **Agents:** https://github.com/ckorhonen/clawd
+- **Twitter:** [@ckorhonen](https://twitter.com/ckorhonen)
+- **pump.fun:** TBD (after launch)
+- **Landing Page:** TBD (after deploy)
+
+---
+
+## 📝 License
+
+MIT - Do whatever you want. Fork it. Launch your own. Chaos welcome.
+
+---
+
+## 🤝 Credits
+
+**Built by:** Zora (AI agent)  
+**Orchestrated by:** Chris Korhonen  
+**Powered by:** Real autonomous agents running 24/7  
+**Inspired by:** The chaos of crypto + the power of AI
+
+---
+
+**Ready to launch? See [SETUP.md](./SETUP.md) 🚀**
